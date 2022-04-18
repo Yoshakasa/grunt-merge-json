@@ -1,13 +1,13 @@
 {
-    "name":        "grunt-merge-json",
-    "homepage":    "http://github.com/rse/grunt-merge-json",
+    "name": "grunt-merge-json",
+    "homepage": "http://github.com/rse/grunt-merge-json",
     "description": "Grunt Task for Merging Multiple JSON Files",
-    "version":     "0.9.7",
-    "license":     "MIT",
+    "version": "0.9.7",
+    "license": "MIT",
     "author": {
-        "name":    "Ralf S. Engelschall",
-        "email":   "rse@engelschall.com",
-        "url":     "http://engelschall.com"
+        "name": "Ralf S. Engelschall",
+        "email": "rse@engelschall.com",
+        "url": "http://engelschall.com"
     },
     "keywords": [
         "gruntplugin",
@@ -16,26 +16,26 @@
     ],
     "repository": {
         "type": "git",
-        "url":  "git://github.com/rse/grunt-merge-json.git"
+        "url": "git://github.com/rse/grunt-merge-json.git"
     },
     "bugs": {
-        "url":  "http://github.com/rse/grunt-merge-json/issues"
+        "url": "http://github.com/rse/grunt-merge-json/issues"
     },
     "main": "Gruntfile.js",
     "devDependencies": {
-        "grunt":                "1.0.2",
-        "grunt-cli":            "1.2.0",
-        "grunt-contrib-jshint": "1.1.0",
-        "grunt-contrib-clean":  "1.1.0"
+        "grunt": "^1.5.2",
+        "grunt-cli": "^1.4.3",
+        "grunt-contrib-jshint": "^3.2.0",
+        "grunt-contrib-clean": "^2.0.1"
     },
     "peerDependencies": {
-        "grunt":                ">=0.4.0"
+        "grunt": ">=1.5.2"
     },
     "dependencies": {
-        "chalk":                "2.4.1",
-        "lodash":               "4.17.10"
+        "chalk": "^2.4.2",
+        "lodash": "^4.17.21"
     },
     "engines": {
-        "node":                 ">=4.0.0"
+        "node": ">=14.0.0"
     }
 }
