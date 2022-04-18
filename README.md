@@ -9,6 +9,8 @@ Grunt Task for Merging Multiple JSON Files
 <p/>
 <img src="https://david-dm.org/rse/grunt-merge-json.png" alt=""/>
 
+This lib is forked for fixing security issues of its parent.
+
 
 ## Getting Started
 
